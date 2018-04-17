@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tags test","This test will verify that a status code of 200 is returned for our GET request","SUCCESS","2018-04-17T00:35:45.295+01:00[Europe/London]","0.0","1.23"
