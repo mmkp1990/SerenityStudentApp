@@ -8,7 +8,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.MethodSorters;
 
-import com.studentapp.cucumber.serenity.StudentSerenitySteps;
+import com.studentapp.serenity.StudentSerenitySteps;
 import com.studentapp.testbase.TestBase;
 import com.studentapp.utils.ReusableSpecifications;
 import com.studentapp.utils.TestUtils;

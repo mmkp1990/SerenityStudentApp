@@ -1,4 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Tags test","Returns a status code of 400 if the use tries to access an invalid resource","SUCCESS","2018-04-17T00:35:35.407+01:00[Europe/London]","0.0","9.29"
-"Tags test","This test will verify that a status code of 200 is returned for our GET request","SUCCESS","2018-04-17T00:35:45.295+01:00[Europe/London]","0.0","1.23"
-"Tags test","Provide a 405 status code when incorrect HTTP method is used to access a resource","SUCCESS","2018-04-17T00:35:46.54+01:00[Europe/London]","0.0","0.91"
+"Tags test","Returns a status code of 400 if the use tries to access an invalid resource","SUCCESS","2018-04-18T18:33:41.892+01:00[Europe/London]","0.0","10.31"
+"Tags test","This test will verify that a status code of 200 is returned for our GET request","SUCCESS","2018-04-18T18:33:52.754+01:00[Europe/London]","0.0","0.9"
+"Tags test","Provide a 405 status code when incorrect HTTP method is used to access a resource","SUCCESS","2018-04-18T18:33:53.663+01:00[Europe/London]","0.0","0.77"

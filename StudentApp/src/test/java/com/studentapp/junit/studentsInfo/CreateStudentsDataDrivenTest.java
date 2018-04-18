@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-import com.studentapp.cucumber.serenity.StudentSerenitySteps;
+import com.studentapp.serenity.StudentSerenitySteps;
 import com.studentapp.testbase.TestBase;
 
 import net.serenitybdd.junit.runners.SerenityParameterizedRunner;
